@@ -1,0 +1,22 @@
+{
+  "name": "plane",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/index.umd.js",
+  "module": "es/index.js",
+  "typings": "es/index.d.ts",
+  "directories": {
+    "es": "es",
+    "test": "__tests__"
+  },
+  "files": [
+    "es"
+  ],
+
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
