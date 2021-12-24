@@ -1,4 +1,4 @@
-# aiot-mdt-3d-visualization-lib
+# component-lib
 
 ## Getting Started
 

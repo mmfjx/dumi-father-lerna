@@ -1,7 +1,7 @@
 ---
 hero:
-  title: aiot-mdt-3d-visualization-lib
-  desc: aiot-mdt-3d-visualization-lib site example
+  title: component-lib-lib
+  desc: component-lib site example
   actions:
     - text: Getting Started
       link: /components
@@ -18,4 +18,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## Hello aiot-mdt-3d-visualization-lib!
+## Hello component-lib!
