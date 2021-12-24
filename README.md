@@ -31,3 +31,6 @@ Build library via `father-build`,
 ```bash
 $ npm run build
 ```
+lerna 需单独安装
+lerna init
+lerna create
